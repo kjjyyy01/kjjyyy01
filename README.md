@@ -6,4 +6,4 @@
 </p>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/html-#ff6f3c?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/html-#ff6f3c?style=for-the-badge&logo=#E34F26&logoColor=white">
