@@ -5,5 +5,4 @@
 <p align="left">
 </p>
 
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/velog-#20C997?style=for-the-badge&logo=#20C997&logoColor=white">
