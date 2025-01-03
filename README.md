@@ -5,4 +5,4 @@
 <p align="left">
 </p>
 
-<img src="https://img.shields.io/badge/velog-#20C997?style=for-the-badge&logo=#20C997&logoColor=white">
+<img href="https://velog.io/@kjjyyy01/posts" src="https://img.shields.io/badge/velog-#20C997?style=for-the-badge&logo=#20C997&logoColor=white">
