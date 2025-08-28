@@ -7,6 +7,7 @@
 
 <div align="center">
    <h2>Development</h2>
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="javascript badge"  />
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="react badge"  />
    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="30" alt="typescript badge"  />
    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="30" alt="nextjs badge"  />
@@ -14,8 +15,13 @@
    </br>
    <h2>Communication</h2>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30" alt="slack badge"  />
-   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion badge"  />
+   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord badge"  />
+   </br>
+   <h2>Collaboration</h2>
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma badge"  />
+   </br>
+   <h2>Documentation</h2>
+   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion badge"  />
    </br>
    <h2>Version Control</h2>
    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="30" alt="github badge"  />
