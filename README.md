@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30" alt="slack badge"  />
    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord badge"  />
    </br>
-   <h2>Collaboration</h2>
+   <h2>Design</h2>
    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma badge"  />
    </br>
    <h2>Documentation</h2>
