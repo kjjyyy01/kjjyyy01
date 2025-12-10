@@ -1,9 +1,8 @@
-<h1 align="center">안녕하세요.  풀스택개발자 김종연입니다.</h1>
-<p>바이브 코딩으로 풀스택 개발하고있습니다.</p>
+<h1 align="center">안녕하세요. 풀스택개발자 김종연입니다.</h1>
+
 ###
 
 <br clear="both">
-
 
 </div>
 <div align="center">
