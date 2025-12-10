@@ -1,11 +1,18 @@
 <h1 align="center">안녕하세요. 프론트엔드 개발자 김종연입니다.</h1>
-<p align="center">팀원들과 함께하는 것을 즐기며 개발하고있는 프론트엔드 개발자입니다.</p>
+<p align="center">바이브 코딩으로 풀스택개발까지 하고있는 개발자입니다.</p>
 
 ###
 
 <br clear="both">
 
+
+</div>
 <div align="center">
+   <h2>AI</h2>
+   <img src="https://img.shields.io/badge/Claude_Code-%23d97757" height="30" alt="Claude Code badge">
+   <img src="https://img.shields.io/badge/Figma%20Make-%2334373d" height="30" alt="Figma Make badge" >
+   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="chatgpt badge"  />
+   </br>
    <h2>Development</h2>
    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30" alt="javascript badge"  />
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="react badge"  />
