@@ -3,6 +3,12 @@
 
 ###
 
+<div align="center">
+  <img height="210" src="https://blog.kakaocdn.net/dn/xKgoT/btrYeZ31KmX/4DXktZ7q9HNfCAJmjlbgxK/img.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 </div>
@@ -33,11 +39,4 @@
 
 ###
    
-</div>
-
-
-###
-
-<div align="center">
-  <img height="210" src="https://blog.kakaocdn.net/dn/xKgoT/btrYeZ31KmX/4DXktZ7q9HNfCAJmjlbgxK/img.gif"  />
 </div>
