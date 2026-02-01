@@ -9,8 +9,6 @@
 <div align="center">
    <h2>AI</h2>
    <img src="https://img.shields.io/badge/Claude_Code-%23d97757" height="30" alt="Claude Code badge">
-   <img src="https://img.shields.io/badge/Figma%20Make-%2334373d" height="30" alt="Figma Make badge" >
-   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="30" alt="chatgpt badge"  />
    </br>
    <h2>Frontend</h2>
    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="30" alt="react badge"  />
@@ -22,12 +20,6 @@
    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="30" alt="express.js badge"  />
    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgresql badge"  />
    </br>
-   <h2>Communication</h2>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" height="30" alt="slack badge"  />
-   <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" alt="discord badge"  />
-   </br>
-   <h2>Design</h2>
-   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="30" alt="figma badge"  />
    </br>
    <h2>Documentation</h2>
    <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" height="30" alt="notion badge"  />
