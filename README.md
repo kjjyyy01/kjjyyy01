@@ -31,8 +31,10 @@
    </br>
    <h2>BaaS</h2>
    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" height="30" alt="supabase badge"  />
+   </br>
+   <h2>Github Stats</h2>
+   
+   ![](https://github-readme-stats.shion.dev/api?username=kjjyyy01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kjjyyy01&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
-###
-   
-</div>
